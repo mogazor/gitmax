@@ -1,0 +1,2 @@
+# gitmax
+GIT project training
