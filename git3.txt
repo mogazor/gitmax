@@ -1,0 +1,5 @@
+The following are not good for the body.
+working area
+staging area
+commit area
+
